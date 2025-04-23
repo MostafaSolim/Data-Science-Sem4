@@ -1,0 +1,8 @@
+# Ignore all .csv files
+*.csv
+
+# Ignore all .xml files
+*.xml
+
+# Ignore unversioned files
+*~
